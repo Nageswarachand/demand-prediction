@@ -1,0 +1,123 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+[data-testid="metric-container"]{
+
+    /* background-color: #EEEEEE;
+    border: 2px solid #CCCCCC;
+    padding: 5% 5% 5% 10%;
+    border-radius: 5px;
+    margin-top: 5px; */
+
+    /* background-color: #ffffff;
+ border: 2px solid;
+ padding: 20px 20px 20px 20px;
+ border-radius: 10px;
+ color: green;
+ box-shadow: 10px; */
+
+ 
+    border: 1px solid #CCCCCC;
+    padding: 5% 5% 5% 7%;
+    border-radius: 5px;
+    
+    border-left: 0.5rem solid #3182bd !important;
+    box-shadow: 0 0.15rem 1.75rem 0 rgba(222, 222, 222, 0.15) !important;
+    color: #3182bd;
+}
+
+#swcc-order-demand-predictor{
+
+    
+    font-weight: 400;
+    font-size: 40px;
+    padding: 0;
+    margin-top: -15px;
+    
+}
+
+
+
+div.css-13mexkk.e1tzin5v0{
+
+    margin-top: -30px;
+
+}
+div.css-bmmsbz.e1tzin5v0{
+    margin-top: -60px;
+}
+
+div.css-is62zv.e1tzin5v0{
+    border: 2px solid;
+    color: green;
+}
+/* [data-testid="stVerticalBlock"]{
+    
+    border: 2px solid;
+    color: green;
+} */
+
+.css-1a32fsj.e19lei0e0{
+    align-items: center;
+    box-shadow: 10px;
+}
+
+[data-testid="stArrowVegaLiteChart"]{
+    border:1px ;
+    color: green;
+    align-self: center;
+    
+}
+
+[data-testid="stImage"]{
+    margin-top: -42px;
+}
+
+div.css-1awkbkn.e1tzin5v0{
+    box-shadow: rgba(255, 255, 255, 0.15) 1.95px 1.95px 2.6px !important;
+    border-radius: 5px;
+        border: 1px solid #CCCCCC;
+    /* padding: 5% 5% 5% 10%; */
+    padding-top: 13px;
+    padding-left: 10px;
+    border-left: 0.5rem solid green !important;
+    margin-left: 40px;
+    
+}
+
+/* div.element-container.css-19cxst0.e1tzin5v2{
+    width: 390px;
+}
+
+div.stBokehChart.bk-root.bk{
+    width: 490px;
+}
+
+div.bk.bk-canvas-events{
+    width: 490px;
+} */
+
+/* div.stBokehChart.bk-root.bk{
+    width: 390px;
+} */
+
+#bokeh-chart-fe0b9288a91d2a895aa20d083b031a24.stBokehChart.bk-root.bk{
+    width: 590px;
+}
+
+div.bk.bk-canvas-events{
+    width: 70%;
+    margin-left: 30px;
+}
+
+div.bk{
+    padding-left: 200px;
+}
+
+div.css-x9krnl.e1tzin5v0{
+
+    margin-left: 50px;
+    margin-right: 20px;
+
+}
